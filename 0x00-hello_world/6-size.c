@@ -1,5 +1,5 @@
 #!/bin/bash
-#include <stdio.c>
+#include <stdio.h>
 int main(void)
 { int i;
 	long int I;
