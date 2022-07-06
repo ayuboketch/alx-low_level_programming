@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - Print _putchar
  * print the character after _putchar(0) = success
