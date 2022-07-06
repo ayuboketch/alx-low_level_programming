@@ -1,16 +1,13 @@
 #include "main.h"
+
 /**
- * main - Print _putchar
- * print the character after _putchar(0) = success
- * Return: Always 0
- */
-int _putchar(void)
-{
-	return (0);
-}
+*main - Print _putchar
+*
+*Return: Always 0(Success)
+*/
 int main(void)
 {
-	_putchar('_');
+	putchar('');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
