@@ -4,7 +4,7 @@
  * print the character after _putchar(0) = success
  * Return: Always 0
  */
-int _putchar(char)
+int _putchar(void)
 {
 	return (0);
 }
