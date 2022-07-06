@@ -2,10 +2,14 @@
 
 /**
  * main - Print _putchar
+ * print the character after _putchar(0) = success
  * Return: Always 0
  */
-int _putchar(char);
-int main(void)
+int _putchar(void);
+{
+	return (0);
+}
+int main(void);
 {
 	_putchar('_');
 	_putchar('p');
