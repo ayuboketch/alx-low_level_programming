@@ -8,6 +8,7 @@
  */
 int main(void)
 {
+	int _isupper(int c);
 	char c;
 	if c = 'A';
 	printf("%c: %d\n", c, _isupper(c));
