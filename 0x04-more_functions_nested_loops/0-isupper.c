@@ -1,18 +1,17 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * main - check the code.
+ * _isupper - uppercase letters
+ * @c: character to check
  *
- * Return: Always 0.
+ * Return: 0 or 1
  */
-int main(void)
+int _isupper(int c)
 
-{
-	int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 		return (1);
-	else 
+	else
 		return (0);
+
 }
