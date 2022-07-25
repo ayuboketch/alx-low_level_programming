@@ -1,0 +1,13 @@
+.bss
+.comment
+.data
+.eh_frame
+.note.GNU-stack
+.note.gnu.property
+.rela.eh_frame
+.rela.text
+.shstrtab
+.strtab
+.symtab
+.text
+NULL
